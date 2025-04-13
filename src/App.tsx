@@ -51,7 +51,7 @@ export default function Portfolio() {
   return (
     <div className="bg-black text-white min-h-screen font-sans">
       {/* Navigation */}
-      <Navbar activeSection="home" />
+      <Navbar activeSection={activeSection} />
 
 
       {/* Hero Section */}
