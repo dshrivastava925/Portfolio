@@ -89,7 +89,7 @@ const Hero: React.FC = () => {
               <div className="relative w-full h-96 flex items-center justify-center">
                 <div className="relative h-64 w-64 rounded-full bg-gradient-to-br from-blue-400 to-blue-600 shadow-2xl shadow-blue-500/40 flex items-center justify-center">
                   <img
-                    src="My Photo 1.jpg"
+                    src="My Photo 1.png"
                     alt="Devansh Shrivastava"
                     className="h-56 w-56 object-cover rounded-full shadow-lg shadow-blue-800/30"
                   />
