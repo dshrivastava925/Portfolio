@@ -79,13 +79,13 @@ const Education: React.FC = () => {
             <div className="bg-black bg-opacity-50 p-6 rounded-lg shadow-lg border border-blue-500 border-opacity-20 group hover:border-opacity-40 transition-all h-full">
               <div className="flex justify-between items-start">
                 <h4 className="text-lg font-semibold text-white group-hover:text-blue-400 transition-colors">
-                  Python Foundation
+                  Generative AI with Large Language Model
                 </h4>
-                <div className="text-gray-400 text-sm">August 2024</div>
+                <div className="text-gray-400 text-sm">April-May 2025</div>
               </div>
-              <p className="text-blue-400">Infosys Springboard</p>
+              <p className="text-blue-400">DeepLearning.AI - Coursera</p>
               <a
-                href="https://example.com/python-foundation-certificate"
+                href="https://www.coursera.org/account/accomplishments/certificate/WA2W5STLENEE"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block mt-4 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white text-sm font-medium rounded transition"
